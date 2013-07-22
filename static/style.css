@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+}
+
+.achievement {
+  margin-top:2em;
+}
+
+iframe {
+  display:block;
+  margin: 3em auto;
+}
+
+blockquote {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+input {
+  margin:  2em 1em 0 1em;
+  width: 155px;
+  height: 21px;
+  border: solid 1px #B9B9B9;
+}
